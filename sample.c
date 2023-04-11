@@ -1,3 +1,4 @@
+#Rush
 #include<stdio.h>
 Awgichew
 int main()
