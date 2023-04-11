@@ -1,4 +1,8 @@
+#<<<<<<< patch-1
+#Getachew comment
+#=======
 #Rush
+#>>>>>>> master
 #include<stdio.h>
 Awgichew
 int main()
